@@ -2,5 +2,5 @@
 
 ## Repository Description
 
-This repository stores my files for hosting workshops at RCOS.
+This repository stores my files for workshops I hosted at RCOS.
 **I will not accept any of pull requests.**
