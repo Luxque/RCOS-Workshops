@@ -3,7 +3,7 @@ env
 lean_theory/source/__pycache__
 lean_theory/source/media
 lean_theory/source/slides
-lean_theory/source/slides_assets
+lean_theory/source/lean_theory_assets
 lean_theory/source/*.html
 
 pip.log
